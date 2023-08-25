@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Sean</h1>
-<h3 align="center">BENG. Computer Engineering @ Hong Kong University of Science and Technology</h3>
+<h3 align="center">M.X. Computer Science @ New York University</h3>
 
-- 👨🏻‍💻  I am currently working on a **cross-platform collaborative VR game** as my undergraduate final year project.
+- 👨🏻‍💻  I worked on a **cross-platform collaborative VR game** as my undergraduate final year project @ the Hong Kong University of Science and Technology.
 
 - 🚀  I’ve implemented a **recreational shooting game system (laser tag)** with **STM32**.
 
