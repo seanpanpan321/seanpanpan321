@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sean</h1>
-<h3 align="center">M.X. Computer Science @ New York University</h3>
+<h3 align="center">M.S. Computer Science @ New York University</h3>
 
 - 👨🏻‍💻  I worked on a **cross-platform collaborative VR game** as my undergraduate final year project @ the Hong Kong University of Science and Technology.
 
