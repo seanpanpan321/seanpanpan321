@@ -7,4 +7,4 @@
 
 - 💸  As an **undergraduate researcher** at **HKUST**, I developed a **decentralized mobile app** with **solidity** and **swift**.
 
-- 📬  Reach me at **hsuanenpan@gmail.com**
+- 📬  Reach me at **hp2577@nyu.com**
