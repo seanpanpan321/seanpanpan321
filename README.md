@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Sean</h1>
 <h3 align="center">M.S. Computer Science @ New York University</h3>
 
-- 🔍 I am currently a **Graduate Researcher** at **NYU**, refining predictive trading models using recurrent reinforcement learning and enhancing model efficacy with Bayesian optimization.
+- 🔍 I am currently a **Graduate Researcher** at **NYU**, refining predictive trading models using recurrent reinforcement learning and enhancing model efficacy by tuning hyperparameters.
 
-- 🧑🏻‍💼 I worked as a **Software Engineer Intern** at **DRESIO**, where I led a team of 5 interns to develop an end-to-end image processing pipeline, improving model precision by over 25%.
+- 🧑🏻‍💼 I worked as a **Software Engineer Intern** at **DRESIO**, where I developed an end-to-end image processing pipeline to autograde Pokemon and YuGiOh cards.
 
 - 📊 I worked as a **Software Engineer Intern** at **Measurable AI**, where I implemented generic parsers for data extraction, and delivered in-depth data analysis and visualizations to support informed trading decisions.
 
