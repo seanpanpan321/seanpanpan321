@@ -1,10 +1,18 @@
 <h1 align="center">Hi there👋, I'm Sean</h1>
 <h3 align="center">M.S. Computer Science @ New York University</h3>
 
-- 👨🏻‍💻  I worked on a **cross-platform collaborative VR game** as my undergraduate final year project @ the Hong Kong University of Science and Technology.
+- 🔍 I am currently a **Graduate Researcher** at **NYU**, refining predictive trading models using recurrent reinforcement learning and enhancing model efficacy with Bayesian optimization.
 
-- 🚀  I’ve implemented a **recreational shooting game system (laser tag)** with **STM32**.
+- 🧑🏻‍💼 I worked as a **Software Engineer Intern** at **DRESIO**, where I led a team of 5 interns to develop an end-to-end image processing pipeline, improving model precision by over 25%.
 
-- 💸  As an **undergraduate researcher** at **HKUST**, I developed a **decentralized mobile app** with **solidity** and **swift**.
+- 📊 I worked as a **Software Engineer Intern** at **Measurable AI**, where I implemented generic parsers for data extraction, and delivered in-depth data analysis and visualizations to support informed trading decisions.
 
-- 📬  Reach me at **hp2577@nyu.com**
+- 👨🏻‍💻 I developed a **cross-platform collaborative VR game** as my undergraduate final year project at **The Hong Kong University of Science and Technology**.
+
+- 🚀 I implemented a **recreational shooting game system (laser tag)** using **STM32**.
+
+- 💸 As an **undergraduate researcher** at **HKUST**, I developed a **decentralized mobile app** with **Solidity** and **Swift**.
+
+- 📬 Reach me at **hp2577@nyu.edu**
+
+- 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/hsuanenpan)
